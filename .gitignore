@@ -1,0 +1,26 @@
+# Virtual Environment
+myenv/
+__pycache__/
+
+# IDE (e.g., PyCharm, VSCode)
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Compiled C extensions
+*.so
+
+# Python cache files
+*.pyc
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# IPython directories
+.ipython/
+
+# Environment variables file
+.myenv
